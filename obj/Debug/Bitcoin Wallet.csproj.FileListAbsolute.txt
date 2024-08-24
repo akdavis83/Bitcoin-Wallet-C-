@@ -1,0 +1,380 @@
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csprojAssemblyReference.cache
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.exe.config
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csproj.CoreCompileInputs.cache
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.exe.config
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.exe
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.pdb
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\netstandard.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.AppContext.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.Concurrent.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.NonGeneric.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.Specialized.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Console.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Data.Common.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Debug.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Process.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Tools.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Drawing.Primitives.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Dynamic.Runtime.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Globalization.Calendars.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Globalization.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Globalization.Extensions.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.Compression.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.Pipes.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.Expressions.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.Parallel.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.Queryable.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Http.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.NameResolution.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.NetworkInformation.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Ping.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Primitives.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Requests.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Security.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Sockets.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.WebSockets.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ObjectModel.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Reflection.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Reflection.Extensions.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Reflection.Primitives.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Resources.Reader.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Resources.ResourceManager.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Resources.Writer.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Extensions.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Handles.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.InteropServices.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Numerics.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Claims.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Principal.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.SecureString.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Text.Encoding.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Text.RegularExpressions.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Overlapped.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Tasks.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Thread.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.ThreadPool.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Timer.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ValueTuple.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XDocument.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XmlDocument.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XPath.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\ConcurrentCollections.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\DotNetTor.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\HBitcoin.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\NBitcoin.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Newtonsoft.Json.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\QBitNinja.Client.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Buffers.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\ConcurrentCollections.xml
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\NBitcoin.xml
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Newtonsoft.Json.xml
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Buffers.xml
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csproj.CopyComplete
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.exe
+D:\Teaching\US_MI2_July_2019\5.Blockchain Transactions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.pdb
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.exe.config
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.exe
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.pdb
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\netstandard.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.AppContext.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.Concurrent.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.NonGeneric.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.Specialized.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.Primitives.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Console.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Data.Common.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Contracts.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Debug.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Process.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Tools.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Tracing.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Drawing.Primitives.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Dynamic.Runtime.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Globalization.Calendars.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Globalization.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Globalization.Extensions.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.Compression.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.IsolatedStorage.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.Pipes.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.Expressions.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.Parallel.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.Queryable.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Http.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.NameResolution.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.NetworkInformation.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Ping.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Primitives.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Requests.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Security.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Sockets.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.WebSockets.Client.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.WebSockets.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ObjectModel.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Reflection.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Reflection.Extensions.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Reflection.Primitives.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Resources.Reader.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Resources.ResourceManager.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Resources.Writer.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Extensions.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Handles.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.InteropServices.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Numerics.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Claims.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Principal.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.SecureString.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Text.Encoding.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Text.RegularExpressions.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Overlapped.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Tasks.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Thread.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.ThreadPool.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Timer.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ValueTuple.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.ReaderWriter.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XDocument.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XmlDocument.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XmlSerializer.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XPath.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\ConcurrentCollections.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\DotNetTor.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\HBitcoin.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\NBitcoin.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Newtonsoft.Json.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\QBitNinja.Client.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Buffers.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\ConcurrentCollections.xml
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\NBitcoin.xml
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Newtonsoft.Json.xml
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Buffers.xml
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csprojAssemblyReference.cache
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.exe.config
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csproj.CoreCompileInputs.cache
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csproj.CopyComplete
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.exe
+D:\KINGSLAND\master-materials\blockchain-networks\BN1021-blockchain-transactions\solutions\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.pdb
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.exe.config
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.exe
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.pdb
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\netstandard.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.AppContext.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.Concurrent.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.NonGeneric.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Collections.Specialized.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.Primitives.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Console.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Data.Common.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Contracts.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Debug.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Process.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Tools.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.Tracing.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Drawing.Primitives.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Dynamic.Runtime.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Globalization.Calendars.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Globalization.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Globalization.Extensions.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.Compression.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.IsolatedStorage.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.Pipes.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.Expressions.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.Parallel.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Linq.Queryable.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Http.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.NameResolution.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.NetworkInformation.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Ping.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Primitives.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Requests.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Security.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.Sockets.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.WebSockets.Client.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Net.WebSockets.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ObjectModel.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Reflection.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Reflection.Extensions.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Reflection.Primitives.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Resources.Reader.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Resources.ResourceManager.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Resources.Writer.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Extensions.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Handles.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.InteropServices.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Numerics.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Claims.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.Principal.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Security.SecureString.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Text.Encoding.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Text.RegularExpressions.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Overlapped.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Tasks.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Thread.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.ThreadPool.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Threading.Timer.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.ValueTuple.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.ReaderWriter.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XDocument.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XmlDocument.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XmlSerializer.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XPath.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\ConcurrentCollections.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\DotNetTor.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\NBitcoin.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Newtonsoft.Json.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\QBitNinja.Client.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Buffers.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\ConcurrentCollections.xml
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\NBitcoin.xml
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Newtonsoft.Json.xml
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Buffers.xml
+D:\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.exe.config
+D:\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csproj.CoreCompileInputs.cache
+D:\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csproj.CopyComplete
+D:\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.exe
+D:\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.pdb
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.exe.config
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.exe
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Bitcoin Wallet.pdb
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\ConcurrentCollections.dll
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\DotNetTor.dll
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\NBitcoin.dll
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\QBitNinja.Client.dll
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Buffers.dll
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\ConcurrentCollections.xml
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\NBitcoin.xml
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Buffers.xml
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csproj.AssemblyReference.cache
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.csproj.CoreCompileInputs.cache
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin .202BBF56.Up2Date
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.exe
+C:\Users\akdav\Documents\KU\KU2-B\M2\Week 7\bitcoin-wallet-cs-resources\bitcoin-wallet-cs\Bitcoin Wallet\obj\Debug\Bitcoin Wallet.pdb
